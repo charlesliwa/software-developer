@@ -10,4 +10,7 @@
 - [C tutorial]()
 - [C++ tutorial]()
 - [C# tutorial]()
+- [Data Structures and Algorithms]()
+- [Computer Science]()
+- [AI & Machine Learning]()
   
